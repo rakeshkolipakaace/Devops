@@ -5,7 +5,7 @@ import Footer from "./components/Footer";
 import Card from "./components/Card";
 
 function Home() {
-  return <Card title="Home" content="Welcome to the home page ok" />;
+  return <Card title="Home" content="Welcome to the home page" />;
 }
 function About() {
   return <Card title="About" content="This is about the app." />;
